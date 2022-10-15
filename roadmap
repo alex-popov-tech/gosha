@@ -1,0 +1,14 @@
+1. initial mostly backand and dummy frontend
+  - one folder - single test run
+  - all json files there - suites
+  - each suite has some structure - suite has tests, tests have steps, steps could have their steps
+  - on get /suites                           returns suites id's
+  - on get /suites/:id                       returns suite data
+  - on get /suites/:id/tests                 returns test id's
+  - on get /suites/:id/tests/:id             returns test data
+  - on get /suites/:id/tests/:id/steps       returns step id's
+  - on get /suites/:id/tests/:id/steps/:id   returns step id's
+2. add some frontend
+3. add metadata/hooks
+4. add attachments
+5. add live updating?

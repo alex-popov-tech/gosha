@@ -1,0 +1,7 @@
+{
+  "name": "name of failed step",
+  "status": "failed",
+  "cause": "expected 3 but was 1",
+  "description": "at line govnocod.go:666",
+  "steps": [{"id": "228f31b6-7f1f-42b4-b2e2-79d4d8a38455","name":"name of passed step","status":"passed"}]
+}
